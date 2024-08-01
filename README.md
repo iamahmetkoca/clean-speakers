@@ -1,6 +1,6 @@
 # cleaner-speakers
 
-![Project Image](https://ahmetkoca.dev/github/rfid-with-csharp/rfid-with-csharp.png)
+![Project Image](https://ahmetkoca.dev/github/clean-speakers/clean-speakers.png)
 
 
 
@@ -11,7 +11,6 @@
 
 - [Description](#description)
 - [Author Info](#author-info)
-- [Arduino Connections](https://ahmetkoca.dev/github/rfid-with-csharp/arduino-connections.png)
 ---
 
 ## Description
