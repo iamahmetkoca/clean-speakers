@@ -15,8 +15,7 @@
 
 ## Description
 
-Answer to the question of how can you send UID of RFID card to c# form?
-
+With this flutter project you can clean your phone's haptors if they are waterlogged or contaminated
 
 
 ---
